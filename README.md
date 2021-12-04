@@ -25,11 +25,11 @@ https://user-images.githubusercontent.com/41840640/144530702-037919a6-99ce-4e5b-
 
 ##### 1. Clone o repositório
 
-```$ git clone https://github.com/GTourinho/distribuidos_python.git  ```
+```$ git clone https://github.com/GTourinho/distributed-banking-system-python.git  ```
 
 ##### 2. Mude para o diretório de trabalho
 
-```$ cd distribuidos_python ```
+```$ cd distributed-banking-system-python ```
 
 ##### 3. Execute a aplicação servidor
 
@@ -51,9 +51,6 @@ https://user-images.githubusercontent.com/41840640/144530702-037919a6-99ce-4e5b-
 ##### 6. Nosso sistema não aceita valores negativos.
 ##### 7. Operações que solicitarem valores maiores que os disponíveis, serão automaticamente canceladas e informadas no visor.
 
-## E como o programa funciona por trás? 🤔
-
-- 
 
 ## Equipe desenvolvedora 💻
 
